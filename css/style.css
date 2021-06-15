@@ -211,7 +211,7 @@ main {
 
 .button {
   padding: 15px 50px;
-  border: none;
+  border: 2px solid transparent;
   box-sizing: content-box;
   text-transform: uppercase;
   font-family: 'DM Sans';
@@ -238,9 +238,6 @@ main {
   color: #083C6E;
   border: 2px solid #083C6E;
 }
-
-
-
 
 .hero-input{
   width: 270px;
