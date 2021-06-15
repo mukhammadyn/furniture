@@ -233,11 +233,13 @@ main {
 
 
 
- main.button:hover{
+.button:hover{
   background: #fff;
   color: #083C6E;
   border: 2px solid #083C6E;
 }
+
+
 
 
 .hero-input{
