@@ -664,6 +664,7 @@ main {
 .subscribe__input {
   padding: 18px;
   padding-left: 30px;
+  padding-right: 209px;
   width: 787px;
   border: 1px solid #075DB0;
 }
