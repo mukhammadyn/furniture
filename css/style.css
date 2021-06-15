@@ -416,6 +416,10 @@ main {
   margin-top: 20px;
 }
 
+.section-benefits {
+  padding-bottom: 319px;
+}
+
 
 .section-benefits__text{
   font-family: "Poppins", "Arial", sans-serif;
